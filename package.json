@@ -1,0 +1,30 @@
+{
+  "name": "node-fpm",
+  "version": "1.0.0",
+  "description": "Refresh is the latest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zy445566/node-fpm.git"
+  },
+  "keywords": [
+    "node",
+    "fpm",
+    "node-fpm",
+    "refresh",
+    "real",
+    "time"
+  ],
+  "author": "zy445566",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zy445566/node-fpm/issues"
+  },
+  "homepage": "https://github.com/zy445566/node-fpm#readme",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
