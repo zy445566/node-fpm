@@ -1,6 +1,6 @@
 {
   "name": "node-fpm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Refresh is the latest",
   "main": "index.js",
   "scripts": {
